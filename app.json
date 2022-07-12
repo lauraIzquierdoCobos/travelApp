@@ -5,7 +5,13 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.lauraIzco.travely"
+    },
+    "ios": {
+      "bundleIdentifier": "com.lauraIzco.travely"
+    }
   },
   "name": "travely"
 }
